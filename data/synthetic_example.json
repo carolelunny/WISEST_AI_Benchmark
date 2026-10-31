@@ -1,1 +1,25 @@
-
+{
+  "notice": "SYNTHETIC DEMONSTRATION ONLY \u2014 not a WISEST record or source quotation",
+  "review_id": "SYNTHETIC-001",
+  "review_characteristics": {
+    "illustrative_characteristic": "fictional example; actual 33-variable schema to be documented"
+  },
+  "judgements": [
+    {
+      "instrument": "AMSTAR2",
+      "item_id": "ILLUSTRATIVE-ITEM",
+      "expert_label": "illustrative_yes",
+      "source_quote": "SYNTHETIC QUOTE: We established an analysis plan before extracting the data.",
+      "rationale": "In this fictional example, the statement explicitly indicates that an analysis plan preceded extraction.",
+      "evidence_clarity": "clear"
+    },
+    {
+      "instrument": "ROBIS",
+      "item_id": "ILLUSTRATIVE-ITEM",
+      "expert_label": "illustrative_no_information",
+      "source_quote": "SYNTHETIC QUOTE: The report does not describe whether two reviewers independently screened records.",
+      "rationale": "Fictional example: the documentation would not support a positive judgement on independent screening.",
+      "evidence_clarity": "vague"
+    }
+  ]
+}
